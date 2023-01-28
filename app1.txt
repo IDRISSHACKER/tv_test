@@ -1,0 +1,9 @@
+Bienvenue sur Jenkins !
+Vos jobs Jenkins seront affichés sur cette page. Pour commencer, vous pouvez mettre en place un build distribué ou commencer à créer un projet.
+
+Commencer à créer votre projet
+Créer un job
+Configurer un build distribué
+Mettre en place un agent
+Configurer un cloud
+En apprendre plus sur les builds distribués
