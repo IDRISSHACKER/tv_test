@@ -85,11 +85,6 @@
    3 => 'www.app.guihon.cm',
 ),
 
-185.245.182.231
-/usr/share/nginx
-user=test
-pass=idriss
-
 
 
 
