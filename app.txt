@@ -1,0 +1,115 @@
+      auths:  [
+        {
+          title: 'Apple',
+          description: 'A access a winder & cinaf vod ',
+          img: 'https://www.apple.com/favicon.ico'
+        },
+        {
+          title: 'Facebook',
+          description: 'A access a l\'ensemble des application cinaf ',
+          img: 'https://www.facebook.com/favicon.ico'
+        },
+        {
+          title: 'Github',
+          description: 'A access a l\'ensemble des application cinaf ',
+          img: 'https://www.github.com/favicon.ico'
+        },
+        {
+          title: 'Google',
+          description: 'A access a l\'ensemble des application cinaf ',
+          img: 'https://www.google.com/favicon.ico'
+        },
+      ]
+
+
+      activitiesList: [
+        {
+          title: 'Nouvelle connexion sur Windows',
+          value: '10 décembre · Cameroun',
+          onClick: () => currentItemEdit.value = 'connexion'
+        },
+        {
+          title: 'Nouvelle connexion sur Tecno SPARK 7',
+          value: '30 novembre · Cameroun',
+          onClick: () => currentItemEdit.value = 'connexion'
+        },
+        {
+          title: 'Nouvelle connexion sur Windows',
+          value: '23 novembre · Cameroun',
+          onClick: () => currentItemEdit.value = 'connexion'
+        },
+      ],
+      devicesList: [
+        {
+          title: 'Sessions sur téléphone android',
+          description: 'Tecno Spark 7',
+          img: '/public/icones/android.png',
+        },
+        {
+          title: 'Sessions sur téléphone ios',
+          description: 'Iphone 12',
+          img: '/public/icones/iphone.png'
+        },
+        {
+          title: 'Sessions sur ordinateur(s) Windows',
+          description: 'Fenetre',
+          img: '/public/icones/laptop.png'
+        },
+        {
+          title: 'Sessions sur ordinateur(s) Linux',
+          description: 'Fenetre',
+          img: '/public/icones/linux.png'
+        },
+      ],
+      appsList: [
+        {
+          title: 'Cinaf vod',
+          description: 'Application de streaming',
+          img: '/images/logoApp/logo.png'
+        },
+        {
+          title: 'Cinaf my business',
+          description: 'Tableau de bord des producteurs',
+          img: '/images/logoApp/logo-my-business.png'
+        },
+        {
+          title: 'Cinaf investissement',
+          description: 'plateforme d\'investissement',
+          img: '/images/logoApp/logo_invest.png'
+        },
+      ],
+
+'trusted_domains' =>
+  array (
+   2 => 'app.guihon.cm',
+   3 => 'www.app.guihon.cm',
+),
+
+185.245.182.231
+/usr/share/nginx
+user=test
+pass=idriss
+
+
+
+
+1 = suprimer la version courante
+2 = recuperer le ripository vers le non actuelle
+3 = trouver la derniere version 
+4 = cp la version courante vers la derniere version & en incrémentant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
